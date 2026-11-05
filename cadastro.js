@@ -47,3 +47,4 @@ async function cadastrarFuncionarios() {
 cadastrarFuncionarios()
   .catch(erro => console.error('Erro:', erro.message))
   .finally(() => rl.close());
+//.
