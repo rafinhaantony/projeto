@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "rafael",
+    "idade": 16,
+    "funcao": "ti"
+  },
+  {
+    "id": 2,
+    "nome": "matheus",
+    "idade": 17,
+    "funcao": "estoque"
+  },
+  {
+    "id": 3,
+    "nome": "fabio",
+    "idade": 48,
+    "funcao": "logisica"
+  },
+  {
+    "id": 4,
+    "nome": "tiago",
+    "idade": 20,
+    "funcao": "administracao"
+  }
+]
